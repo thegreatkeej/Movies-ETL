@@ -1,10 +1,8 @@
 # Byte-compiled / optimized / DLL files
+config.py
 __pycache__/
 *.py[cod]
 *$py.class
-
-# Adding config.py file.
-config.py
 
 # C extensions
 *.so
@@ -29,6 +27,7 @@ share/python-wheels/
 .installed.cfg
 *.egg
 MANIFEST
+config.py
 
 # PyInstaller
 #  Usually these files are written by a python script from a template
