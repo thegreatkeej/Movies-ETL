@@ -1,5 +1,8 @@
 # Byte-compiled / optimized / DLL files
 config.py
+movies_metadata.csv
+ratings.csv
+wikipedia-movies.json
 __pycache__/
 *.py[cod]
 *$py.class
