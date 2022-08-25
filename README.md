@@ -1,5 +1,6 @@
 # Movies-ETL
-Practice:
-##Extract: web scraping raw and partially structured data
-##Transform:cleaning, parsing and comparing data from two different sources
-##Load: creating tables in SQL with the cleaned data
+Practice with:
+
+Extracting: web scraping raw and partially structured data
+Transforming: cleaning, parsing and comparing data from two different sources
+Loading: creating tables in SQL with the cleaned data
